@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "smolprox": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 443 -s true -h www.google.com -l 5200",
+      "launchBrowser": false
+    }
+  }
+}
